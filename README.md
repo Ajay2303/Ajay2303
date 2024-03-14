@@ -9,7 +9,7 @@
 
 - 💻 I'm a passionate Computer Engineering Student diving deep into the World of Data Science!
 
-- 🌱 Currently nurturing my Skills in Data Analysis and Machine Learning! 🤖
+- 🌱 Currently nurturing my Skills in Data Analysis! 🤖
 
 - 🔭 Working on Deep Learning & Machine Learning! 
 
