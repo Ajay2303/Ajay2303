@@ -29,9 +29,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajay2303&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/Ajay2303/Ajay2303/output/snake.svg" alt="Snake animation" />
-
-
 
 
 	
