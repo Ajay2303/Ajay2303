@@ -13,7 +13,7 @@
 
 - 🔭 Working on Deep Learning & Machine Learning! 
 
-- 📫 Drop me a line at unconqurable23@gmail.com! 📧
+- 📫 Drop me a line at s.ajayx23@gmail.com! 📧
 
 <h3 align="left">Connect with me:</h3>
 
